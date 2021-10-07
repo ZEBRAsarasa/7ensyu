@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.top {
+  width: 100%;
+  height: 400px;
+  background-image: url(file:///C:/Users/ssgsk/OneDrive/%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97/7ensyu/chapter7_exercise/img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+
+.top-text {
+  padding: 20px;
+}
+
+main {
+  width: 840px;
+  margin: 50px auto;
+}
+
+.box1 {
+  margin-bottom: 30px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid grey;
+}
+
+.box2 {
+  margin-bottom: 30px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid grey;
+}
+
+.box3 {
+  margin-bottom: 30px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid grey;
+}
+
+.box4 {
+  padding-bottom: 30px;
+  border-bottom: 1px solid grey;
+}
